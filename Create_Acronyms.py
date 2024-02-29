@@ -28,4 +28,3 @@ for i in text:
     each word and appends it to the string a.'''
     a = a + str(i[0].upper())
 
-print(a)
